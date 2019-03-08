@@ -1,5 +1,5 @@
 # USAGE
-# python ball_tracking.py --video ball_tracking_example.mp4
+# python ball_tracking.py --video http://192.168.50.22:3000/html/cam_pic_new.php?time=9999999999999999999999999&pDelay=40000
 # python ball_tracking.py
 
 # import the necessary packages
@@ -17,7 +17,7 @@ ap.add_argument("-b", "--buffer", type=int, default=64,
 	help="max buffer size")
 args = vars(ap.parse_args())
 
-# define the lower and upper boundaries of the "green"
+# define the lower and upper boundaries of the "red"
 # ball in the HSV color space, then initialize the
 # list of tracked points
 redLower = (0, 100, 100)
