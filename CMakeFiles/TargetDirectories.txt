@@ -1,0 +1,4 @@
+/home/d-wazzle/Darwin-CV/OpenCV/CMakeFiles/edit_cache.dir
+/home/d-wazzle/Darwin-CV/OpenCV/CMakeFiles/rebuild_cache.dir
+/home/d-wazzle/Darwin-CV/OpenCV/CMakeFiles/openStream.dir
+/home/d-wazzle/Darwin-CV/OpenCV/CMakeFiles/faceDetectOP.dir
